@@ -1,0 +1,22 @@
+.trafficLight div {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+.red-light {
+    background-color: red;
+}
+
+.orange-light {
+    background-color: orange;
+}
+
+.green-light {
+    background-color: green;
+}
+
+.off-light {
+    background-color: white;
+}
